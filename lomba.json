@@ -3,78 +3,91 @@
     "name": "Lomba Dance (Persahabatan) Antar SMA/SMK Se-Kab. Buleleng",
     "banner": "/lomba/dance.jpg",
     "description": "",
+    "rulesFile": "https://download.nikonimglib.com/archive2/payY500AHbkQ02bXMhb14TZo4978/D3300_NT(En)02.pdf",
     "slug": "lomba-dance"
   },
   {
     "name": "Latihan Bersama Pickleball (Persahabatan) Antar Guru Se-Buleleng",
     "banner": "/lomba/pickleball.jpg",
     "description": "",
+    "rulesFile": "https://gdlp01.c-wss.com/gds/1/0300004731/02/eosrt3-eos1100d-bim2-c-en.pdf",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Memasak Antar Guru SMK Negeri 3 Singaraja",
     "banner": "/lomba/cooking.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Penjor Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/penjor.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Karaoke Antar SMP Se-Kab. Buleleng",
     "banner": "/lomba/karaoke.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Futsal Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/futsal.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Mobile Legends Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/ml.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Tarik Tambang Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/tariktambang.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Gerak Jalan Kocak dan Yel Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/gerakjalan.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Pentas Seni Kreasi Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/tari.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Kreativitas Karya Wirausaha Jurusan SMK Negeri 3 Singaraja",
     "banner": "/event.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Lomba Expo Jurusan SMK Negeri 3 Singaraja",
     "banner": "/event.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   },
   {
     "name": "Puncak Acara Perayaan HUT SMK",
     "banner": "/event.jpg",
     "description": "",
+    "rulesFile": "",
     "slug": "lomba-dance-2"
   }
 ]
