@@ -82,12 +82,5 @@
     "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-EXPO.pdf",
     "slug": "lomba-expo-antar-jurusan"
-  },
-  {
-    "name": "Lomba Vlog Tingkat SMP",
-    "banner": "/lomba/vlog.jpg",
-    "description": "",
-    "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-VLOG-TINGKAT-SMP.pdf",
-    "slug": "lomba-vlog-tingkat-smp"
   }
 ]
