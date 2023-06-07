@@ -1,4 +1,5 @@
 [
-    { "name": "Pamhplet 1",
-    "banner": "/pamphlet/COVER.png"}
+    {   "name": "Pamhplet 1",
+        "banner": "/pamphlet/COVER.png"
+    }
 ] 
