@@ -1,7 +1,7 @@
 [
   {
     "name": "Lomba Dance (Persahabatan) Antar SMA/SMK Se-Kab. Buleleng",
-    "banner": "/lomba/Dancefix.JPG",
+    "banner": "/lomba/dancefix.jpg",
     "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN-UMUM-LOMBA-PERSAHABATAN-DANCE.pdf",
     "slug": "lomba-dance"
@@ -36,7 +36,7 @@
   },
   {
     "name": "Lomba Futsal Antar Jurusan SMK Negeri 3 Singaraja",
-    "banner": "/lomba/futsal.jpg",
+    "banner": "/lomba/futsalcoba.jpg",
     "description": "",
     "rulesFile": "",
     "slug": "lomba-futsal-antar-jurusan"
