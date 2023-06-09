@@ -1,10 +1,6 @@
 [
-  {
-    "name": "JIMY TEAM",
-    "banner": "/sponsor/logo jimy.jpg"
-  },
-  {
-    "name": "TECHNICA SOUNDSYSTEM",
-    "banner": "/sponsor/technica soundsystem web.png"
-  }
+    {
+        "name": "TECHNICA SOUNDSYSTEM",
+        "banner": "/sponsor/technica soundsystem web.png"
+    }
 ]
