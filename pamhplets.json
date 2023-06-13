@@ -6,5 +6,9 @@
   {
     "name": "Lomba-Dance",
     "banner": "/pamphlet/lombadance.png"
+  },
+  {
+    "name": "Lomba-Karoke",
+    "banner": "/pamphlet/lombakaroke.png"
   }
 ]
