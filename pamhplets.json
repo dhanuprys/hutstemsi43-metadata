@@ -2,5 +2,9 @@
   {
     "name": "Pamhplet 1",
     "banner": "/pamphlet/COVER.png"
+  },
+  {
+    "name": "Lomba-Dance",
+    "banner": "/pamphlet/lombadance.png"
   }
 ]
