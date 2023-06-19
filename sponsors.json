@@ -6,8 +6,7 @@
     },
     {
         "name": "TELENG-INDAH-PRINTING",
-        "banner": "/sponsor/telengindahresize.jpg",
-        "premium": true
+        "banner": "/sponsor/telengindahresize.jpg"
     },
     {
         "name": "WARUNG-WIRA",
@@ -19,6 +18,7 @@
     },
     {
         "name": "METROINDO-COMPUTER",
-        "banner": "/sponsor/metroindo.jpg"
+        "banner": "/sponsor/metroindo.jpg",
+        "premium":true
     }
 ]
