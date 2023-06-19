@@ -1,11 +1,13 @@
 [
     {
         "name": "BELLO-DESAIN-STUDIO",
-        "banner": "/sponsor/indrabellofix.jpg"
+        "banner": "/sponsor/indrabellofix.jpg",
+        "premium": true
     },
     {
         "name": "TELENG-INDAH-PRINTING",
-        "banner": "/sponsor/telengindahresize.jpg"
+        "banner": "/sponsor/telengindahresize.jpg",
+        "premium": true
     },
     {
         "name": "WARUNG-WIRA",
