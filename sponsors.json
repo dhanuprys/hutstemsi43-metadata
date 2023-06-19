@@ -18,7 +18,6 @@
     },
     {
         "name": "METROINDO-COMPUTER",
-        "banner": "/sponsor/metroindo.jpg",
-        "premium":true
+        "banner": "/sponsor/metroindo.jpg"
     }
 ]
