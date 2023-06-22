@@ -23,5 +23,10 @@
     {
         "name": "PONDOK-MEDIA",
         "banner": "/sponsor/pondokmedia.jpg"
+    },
+    {
+        "name": "R-CEMERLANG",
+        "banner": "/sponsor/rcemerlang.png",
+        "premium": true
     }
 ]
