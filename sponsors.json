@@ -28,5 +28,10 @@
         "name": "R-CEMERLANG",
         "banner": "/sponsor/rcemerlang.png",
         "premium": true
+    },
+    {
+        "name": "TRESNA-JAYA",
+        "banner": "/sponsor/tresnajaya.png",
+        "premium": true
     }
 ]
