@@ -29,5 +29,10 @@
         "name": "TRESNA-JAYA",
         "banner": "/sponsor/tresnajaya.png",
         "premium": true
+    },
+    {
+        "name": "SINAR-DEWATA",
+        "banner": "/sponsor/sinardewata.png",
+        "premium": true
     }
 ]
