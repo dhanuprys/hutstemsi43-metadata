@@ -22,12 +22,12 @@
     },
     {
         "name": "R-CEMERLANG",
-        "banner": "/sponsor/rcemerlang.png",
+        "banner": "/sponsor/cemerlangfix.png",
         "premium": true
     },
     {
         "name": "TRESNA-JAYA",
         "banner": "/sponsor/tresnajaya.png",
         "premium": true
-    }
+    },
 ]
