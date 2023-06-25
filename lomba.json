@@ -66,14 +66,14 @@
     "name": "Lomba Pentas Seni Kreasi Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/tari.jpg",
     "description": "",
-    "rulesFile": "",
+    "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-PENTAS-SENI.pdf",
     "slug": "lomba-pentas-seni-kreasi-antar-jurusan"
   },
   {
-    "name": "Lomba Kreativitas Karya Wirausaha Jurusan SMK Negeri 3 Singaraja",
+    "name": "Lomba Parade Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/wirausaha.jpg",
     "description": "",
-    "rulesFile": "",
+    "rulesFile": "/pdf-sk/KETENTUAN-PARADE-JURUSAN.pdf",
     "slug": "lomba-kreativitas-karya-wirausaha"
   },
   {
