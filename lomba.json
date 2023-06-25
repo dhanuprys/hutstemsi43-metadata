@@ -30,14 +30,14 @@
   {
     "name": "Lomba Karaoke Antar SMP Se-Kab. Buleleng",
     "banner": "/lomba/karaokefix.jpg",
-    "description": "",
+    "description": "KETENTUAN-LOMBA-KARAOKE-TINGKAT-SMP-SE-BULELENG.pdf",
     "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-KARAOKE-TINGKAT-SMP-SE-BULELENG.pdf",
     "slug": "lomba-karaoke-antar-smp"
   },
   {
     "name": "Turnamen Futsal Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/futsalfix.jpg",
-    "description": "",
+    "description": "KETENTUAN_TURNAMEN_FUTSAL_ANTAR_JURUSAN_SMK_NEGERI_3_SINGARAJA.pdf",
     "rulesFile": "/pdf-sk/KETENTUAN_TURNAMEN_FUTSAL_ANTAR_JURUSAN_SMK_NEGERI_3_SINGARAJA.pdf",
     "slug": "lomba-futsal-antar-jurusan"
   },
