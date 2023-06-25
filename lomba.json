@@ -24,7 +24,7 @@
     "name": "Lomba Penjor Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/penjorfix.jpg",
     "description": "",
-    "rulesFile": "KETENTUAN_LOMBA_PENJOR.pdf",
+    "rulesFile": "/pdf-sk/KETENTUAN_LOMBA_PENJOR.pdf",
     "slug": "lomba-penjor"
   },
   {
@@ -51,8 +51,8 @@
   {
     "name": "Lomba Tarik Tambang Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/tariktambangfix.jpg",
-    "description": "",
-    "rulesFile": "",
+    "description": "KETENTUAN_LOMBA_TARIK_TAMBANG.pdf",
+    "rulesFile": "/pdf-sk/KETENTUAN_LOMBA_TARIK_TAMBANG",
     "slug": "lomba-tarik-tambang-antar-jurusan"
   },
   {
