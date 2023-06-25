@@ -34,5 +34,9 @@
         "name": "SINAR-DEWATA",
         "banner": "/sponsor/sinardewata.png",
         "premium": true
+    },
+    {
+        "name": "PIKNIKAJA-BARBEQUE-AND-GRILL",
+        "banner": "/sponsor/piknikajabarbeque.png"
     }
 ]
