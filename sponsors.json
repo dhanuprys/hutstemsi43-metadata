@@ -55,5 +55,9 @@
     {
         "name": "BHARATA-SPORT",
         "banner": "/sponsor/bharatasport.jpg"
+    },
+    {
+        "name": "DWI-KARYA-ARSITEKTUR",
+        "banner": "/sponsor/dwikaryaarsitektur.png"
     }
 ]
