@@ -42,5 +42,9 @@
     {
         "name": "WARUNG-WIRA",
         "banner": "/sponsor/warungwira.jpg"
+    },
+    {
+        "name": "HUSKY-KONVEKSI",
+        "banner": "/sponsor/huskykonveksi.jpg"
     }
 ]
