@@ -64,5 +64,13 @@
         "name": "MAKMUR-ALMUNI",
         "banner": "/sponsor/makmuralmuni.jpg",
         "premium": true
+    },
+    {
+        "name": "LAKSAMANA-MOTOR",
+        "banner": "/sponsor/Laksamanamotor.png"
+    },
+    {
+        "name": "WARUNG-BOLA",
+        "banner": "/sponsor/Warungbola.png"
     }
 ]
