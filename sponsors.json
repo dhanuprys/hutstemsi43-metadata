@@ -46,5 +46,10 @@
     {
         "name": "HUSKY-KONVEKSI",
         "banner": "/sponsor/huskykonveksi.jpg"
+    },
+    {
+        "name": "UD-JAYA-ABADI",
+        "banner": "/sponsor/UDJayaAbadi.jpg",
+        "premium": true
     }
 ]
