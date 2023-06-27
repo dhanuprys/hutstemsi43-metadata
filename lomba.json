@@ -2,7 +2,7 @@
   {
     "name": "Lomba Dance (Persahabatan) Antar SMA/SMK Se-Kab. Buleleng",
     "banner": "/lomba/dancefix.jpg",
-    "description": "KETENTUAN-UMUM-LOMBA-PERSAHABATAN-DANCE.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN-UMUM-LOMBA-PERSAHABATAN-DANCE.pdf",
     "slug": "lomba-dance"
   },
@@ -16,7 +16,7 @@
   {
     "name": "Lomba Memasak Antar Guru SMK Negeri 3 Singaraja",
     "banner": "/lomba/masakfix.jpg",
-    "description": "/pdf-sk/KETENTUAN-LOMBA-MEMASAK-ANTAR-GURU-DAN-PEGAWAI.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-MEMASAK-ANTAR-GURU-DAN-PEGAWAI.pdf",
     "slug": "lomba-memasak"
   },
@@ -30,28 +30,28 @@
   {
     "name": "Lomba Karaoke Antar SMP Se-Kab. Buleleng",
     "banner": "/lomba/karaokefix.jpg",
-    "description": "KETENTUAN-LOMBA-KARAOKE-TINGKAT-SMP-SE-BULELENG.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN-LOMBA-KARAOKE-TINGKAT-SMP-SE-BULELENG.pdf",
     "slug": "lomba-karaoke-antar-smp"
   },
   {
     "name": "Turnamen Futsal Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/futsalfix.jpg",
-    "description": "KETENTUAN_TURNAMEN_FUTSAL_ANTAR_JURUSAN_SMK_NEGERI_3_SINGARAJA.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN_TURNAMEN_FUTSAL_ANTAR_JURUSAN_SMK_NEGERI_3_SINGARAJA.pdf",
     "slug": "lomba-futsal-antar-jurusan"
   },
   {
     "name": "Turnamen Mobile Legends Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/ml.jpg",
-    "description": "KETENTUAN-LOMBA-MOBILE-LEGENDS.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN_TURNAMEN_MOBILE_LEGEND_ANTAR_JURUSAN_SMK_NEGERI_3_SINGARAJA[2].pdf",
     "slug": "lomba-mobile-legends-antar-jurusan"
   },
   {
     "name": "Lomba Tarik Tambang Antar Jurusan SMK Negeri 3 Singaraja",
     "banner": "/lomba/tariktambangfix.jpg",
-    "description": "KETENTUAN_LOMBA_TARIK_TAMBANG.pdf",
+    "description": "",
     "rulesFile": "/pdf-sk/KETENTUAN_LOMBA_TARIK_TAMBANG",
     "slug": "lomba-tarik-tambang-antar-jurusan"
   },
