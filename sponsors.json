@@ -59,5 +59,10 @@
     {
         "name": "DWI-KARYA-ARSITEKTUR",
         "banner": "/sponsor/dwikaryaarsitekturfix.png"
+    },
+    {
+        "name": "MAKMUR-ALMUNI",
+        "banner": "/sponsor/makmuralmuni.jpg",
+        "premium": true
     }
 ]
