@@ -51,5 +51,9 @@
         "name": "UD-JAYA-ABADI",
         "banner": "/sponsor/UDJayaAbadi.jpg",
         "premium": true
+    },
+    {
+        "name": "BHARATA-SPORT",
+        "banner": "/sponsor/bharatasport.jpg"
     }
 ]
