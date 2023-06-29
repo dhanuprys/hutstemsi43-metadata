@@ -72,5 +72,9 @@
     {
         "name": "WARUNG-BOLA",
         "banner": "/sponsor/warungbolafix.png"
+    },
+    {
+        "name": "UDAYANA-PRINTING",
+        "banner": "/sponsor/udayanaprinting.png"
     }
 ]
