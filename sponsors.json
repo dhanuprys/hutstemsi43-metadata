@@ -67,7 +67,8 @@
     },
     {
         "name": "LAKSAMANA-MOTOR",
-        "banner": "/sponsor/laksamanamotorfix.png"
+        "banner": "/sponsor/laksamanamotorfix.png",
+        "premium": true
     },
     {
         "name": "WARUNG-BOLA",
