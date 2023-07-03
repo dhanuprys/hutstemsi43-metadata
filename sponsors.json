@@ -1,7 +1,47 @@
 [
     {
+        "name": "TRESNA-JAYA",
+        "banner": "/sponsor/tresnajaya.png",
+        "premium": true
+    },
+    {
+        "name": "R-CEMERLANG",
+        "banner": "/sponsor/cemerlangfix.png",
+        "premium": true
+    },
+    {
+        "name": "MAKMUR-ALMUNI",
+        "banner": "/sponsor/makmuralmuni.jpg",
+        "premium": true
+    },
+    {
+        "name": "SINAR-DEWATA",
+        "banner": "/sponsor/sinardewata.png",
+        "premium": true
+    },
+    {
         "name": "BELLO-DESAIN-STUDIO",
         "banner": "/sponsor/indrabellofix.jpg",
+        "premium": true
+    },
+    {
+        "name": "UD-JAYA-ABADI",
+        "banner": "/sponsor/UDJayaAbadi.jpg",
+        "premium": true
+    },
+    {
+        "name": "LAKSAMANA-MOTOR",
+        "banner": "/sponsor/laksamanamotorfix.png",
+        "premium": true
+    },
+    {
+        "name": "WARUNG-BOLA",
+        "banner": "/sponsor/wrbolafix.jpg",
+        "premium": true
+    },
+    {
+        "name": "EDIE-ARTA",
+        "banner": "/sponsor/ediearta.jpg",
         "premium": true
     },
     {
@@ -21,21 +61,6 @@
         "banner": "/sponsor/pondokmedia.jpg"
     },
     {
-        "name": "R-CEMERLANG",
-        "banner": "/sponsor/cemerlangfix.png",
-        "premium": true
-    },
-    {
-        "name": "TRESNA-JAYA",
-        "banner": "/sponsor/tresnajaya.png",
-        "premium": true
-    },
-    {
-        "name": "SINAR-DEWATA",
-        "banner": "/sponsor/sinardewata.png",
-        "premium": true
-    },
-    {
         "name": "PIKNIKAJA-BARBEQUE-AND-GRILL",
         "banner": "/sponsor/piknikajabarbeque.png"
     },
@@ -48,31 +73,12 @@
         "banner": "/sponsor/huskykonveksifix.png"
     },
     {
-        "name": "UD-JAYA-ABADI",
-        "banner": "/sponsor/UDJayaAbadi.jpg",
-        "premium": true
-    },
-    {
         "name": "BHARATA-SPORT",
         "banner": "/sponsor/bharatasport.jpg"
     },
     {
         "name": "DWI-KARYA-ARSITEKTUR",
         "banner": "/sponsor/dwikaryaarsitekturfix.png"
-    },
-    {
-        "name": "MAKMUR-ALMUNI",
-        "banner": "/sponsor/makmuralmuni.jpg",
-        "premium": true
-    },
-    {
-        "name": "LAKSAMANA-MOTOR",
-        "banner": "/sponsor/laksamanamotorfix.png",
-        "premium": true
-    },
-    {
-        "name": "WARUNG-BOLA",
-        "banner": "/sponsor/wrbolafix.jpg"
     },
     {
         "name": "UDAYANA-PRINTING",
