@@ -96,5 +96,9 @@
     {
         "name": "WINGS-FOOD",
         "banner": "/sponsor/wingsurya.png"
+    },
+    {
+        "name": "PRIMA-DEKORASI",
+        "banner": "/sponsor/primadekorasi.jpg"
     }
 ]
