@@ -77,10 +77,6 @@
         "banner": "/sponsor/bharatasport.jpg"
     },
     {
-        "name": "DWI-KARYA-ARSITEKTUR",
-        "banner": "/sponsor/dwikaryaarsitekturfix.png"
-    },
-    {
         "name": "UDAYANA-PRINTING",
         "banner": "/sponsor/udayanaprinting.png"
     },
@@ -93,7 +89,7 @@
         "banner": "/sponsor/logoberutz.jpeg"
     },
     {
-        "name":"WINGS-FOOD",
-        "banner":"/sponsor/wingsurya.png"
+        "name": "WINGS-FOOD",
+        "banner": "/sponsor/wingsurya.png"
     }
 ]
