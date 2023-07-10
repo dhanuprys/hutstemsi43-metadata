@@ -91,5 +91,9 @@
     {
         "name": "BERUTZ-BAR-RESTO",
         "banner": "/sponsor/logoberutz.jpeg"
+    },
+    {
+        "name":"WINGS-FOOD",
+        "banner":"/sponsor/wingsurya.png"
     }
 ]
