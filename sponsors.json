@@ -100,5 +100,9 @@
     {
         "name": "PRIMA-DEKORASI",
         "banner": "/sponsor/primadekorasi.jpg"
+    },
+    {
+        "name":"YSYS-SHOP",
+        "banner":"/sponsor/ysys.jpg"
     }
 ]
