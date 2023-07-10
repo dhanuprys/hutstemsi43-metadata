@@ -45,6 +45,11 @@
         "premium": true
     },
     {
+        "name": "CV-KARYA-MANDIRI",
+        "banner": "/sponsor/Karyamandiri.jpg",
+        "premium": true
+    },
+    {
         "name": "TELENG-INDAH-PRINTING",
         "banner": "/sponsor/telengindahresize.jpg"
     },
