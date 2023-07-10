@@ -45,6 +45,11 @@
         "premium": true
     },
     {
+        "name": "WINGS-FOOD",
+        "banner": "/sponsor/wingsurya.png",
+        "premium": "true"
+    }
+    {
         "name": "CV-KARYA-MANDIRI",
         "banner": "/sponsor/Karyamandiri.jpg",
         "premium": true
@@ -94,15 +99,11 @@
         "banner": "/sponsor/logoberutz.jpeg"
     },
     {
-        "name": "WINGS-FOOD",
-        "banner": "/sponsor/wingsurya.png"
-    },
-    {
         "name": "PRIMA-DEKORASI",
         "banner": "/sponsor/primadekorasi.jpg"
     },
     {
-        "name":"YSYS-SHOP",
-        "banner":"/sponsor/ysys.jpg"
+        "name": "YSYS-SHOP",
+        "banner": "/sponsor/ysys.jpg"
     }
 ]
