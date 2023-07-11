@@ -50,6 +50,16 @@
         "premium": true
     },
     {
+        "name": "WINGS-FOOD",
+        "banner": "/sponsor/wingsurya.png",
+        "premium": "true"
+    },
+    {
+        "name": "CV-KARYA-MANDIRI",
+        "banner": "/sponsor/Karyamandiri.jpg",
+        "premium": true
+    },
+    {
         "name": "TELENG-INDAH-PRINTING",
         "banner": "/sponsor/telengindahresize.jpg"
     },
@@ -82,11 +92,23 @@
         "banner": "/sponsor/bharatasport.jpg"
     },
     {
-        "name": "DWI-KARYA-ARSITEKTUR",
-        "banner": "/sponsor/dwikaryaarsitekturfix.png"
-    },
-    {
         "name": "UDAYANA-PRINTING",
         "banner": "/sponsor/udayanaprinting.png"
+    },
+    {
+        "name": "FAJAR-PRATAMA",
+        "banner": "/sponsor/fajarpratama.png"
+    },
+    {
+        "name": "BERUTZ-BAR-RESTO",
+        "banner": "/sponsor/logoberutz.jpeg"
+    },
+    {
+        "name": "PRIMA-DEKORASI",
+        "banner": "/sponsor/primadekorasi.jpg"
+    },
+    {
+        "name": "YSYS-SHOP",
+        "banner": "/sponsor/ysys.jpg"
     }
 ]
