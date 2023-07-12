@@ -25,6 +25,11 @@
         "premium": true
     },
     {
+        "name": "CV-SURYA-LANGGENG",
+        "banner": "/sponsor/suryalanggeng.png",
+        "premium": true
+    },
+    {
         "name": "UD-JAYA-ABADI",
         "banner": "/sponsor/UDJayaAbadi.jpg",
         "premium": true
