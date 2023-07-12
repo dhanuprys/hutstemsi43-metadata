@@ -105,5 +105,9 @@
     {
         "name": "YSYS-SHOP",
         "banner": "/sponsor/ysys.jpg"
+    },
+    {
+        "name": "KEJORA-FLORIST",
+        "banner": "/sponsor/kejorafix.png"
     }
 ]
