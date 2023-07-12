@@ -30,6 +30,11 @@
         "premium": true
     },
     {
+        "name": "SURYA-LANGGENG",
+        "banner": "/sponsor/suryalanggeng.png",
+        "premium": true
+    },
+    {
         "name": "LAKSAMANA-MOTOR",
         "banner": "/sponsor/laksamanamotorfix.png",
         "premium": true
