@@ -119,5 +119,9 @@
     {
         "name": "KEJORA-FLORIST",
         "banner": "/sponsor/kejorafix.png"
+    },
+    {
+        "name":"BHUANA-MIGAS",
+        "banner":"/sponsor/bhuanamigas.png"
     }
 ]
