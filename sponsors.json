@@ -132,5 +132,9 @@
     {
         "name": "COMNET-PLUS-SINGARAJA",
         "banner": "/sponsor/comnet.png"
+    },
+    {
+        "name":"BEDAK-TEH-POCI",
+        "banner":"/sponsor/bedaktehpoci.png"
     }
 ]
