@@ -128,5 +128,9 @@
     {
         "name": "BHUANA-MIGAS",
         "banner": "/sponsor/bhuanamigas.png"
+    },
+    {
+        "name": "COMNET-PLUS-SINGARAJA",
+        "banner": "/sponsor/comnet.png"
     }
 ]
