@@ -10,6 +10,11 @@
         "premium": true
     },
     {
+        "name": "WATES-SMKN3-SINGARAJA",
+        "banner": "/sponsor/watesfix.png",
+        "premium": true
+    },
+    {
         "name": "MAKMUR-ALMUNI",
         "banner": "/sponsor/makmuralmuni.jpg",
         "premium": true
@@ -121,7 +126,7 @@
         "banner": "/sponsor/kejorafix.png"
     },
     {
-        "name":"BHUANA-MIGAS",
-        "banner":"/sponsor/bhuanamigas.png"
+        "name": "BHUANA-MIGAS",
+        "banner": "/sponsor/bhuanamigas.png"
     }
 ]
