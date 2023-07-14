@@ -40,7 +40,7 @@
         "premium": true
     },
     {
-        "name": "AGUNG-TOYOTA",
+        "name": "SURYA-LANGGENG",
         "banner": "/sponsor/agungtoyota.png",
         "premium": true
     },
@@ -131,10 +131,10 @@
     },
     {
         "name": "COMNET-PLUS-SINGARAJA",
-        "banner": "/sponsor/comnet.png"
+        "banner": "/sponsor/comnetfix.png"
     },
     {
-        "name":"BEDAK-TEH-POCI",
-        "banner":"/sponsor/bedaktehpoci.png"
+        "name": "BEDAK-TEH-POCI",
+        "banner": "/sponsor/bedaktehpoci.png"
     }
 ]
