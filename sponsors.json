@@ -140,5 +140,17 @@
     {
         "name": "STAND-OI-ES-SEMANGKA",
         "banner": "/sponsor/standoi.png"
+    },
+    {
+        "name": "CV-BAGAS-TIRTA-UTAMA",
+        "banner": "/sponsor/Melya.png"
+    },
+    {
+        "name": "YEPPA-SINGARAJA",
+        "banner": "/sponsor/yeppa.png"
+    },
+    {
+        "name": "BADILAN-STORE",
+        "banner": "/sponsor/Badilan.jpg"
     }
 ]
