@@ -162,5 +162,13 @@
     {
         "name": "BADILAN-STORE",
         "banner": "/sponsor/Badilan.jpg"
+    },
+    {
+        "name": "HENDRATAMA",
+        "banner": "/sponsor/hendratama.png"
+    },
+    {
+        "name": "PAS-DEKORASI",
+        "banner": "/sponsor/pasdekorasi.png"
     }
 ]
